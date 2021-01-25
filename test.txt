@@ -1,0 +1,48 @@
+    1  pwd
+    2  ls
+    3  cd Users
+    4  ls -l
+    5  cd Jelenin Dellic
+    6  cd Jelenin
+    7  cd Jelenina Dellic
+    8  cd 'Jelenin Dellic'
+    9  cd Desctop
+   10  cd Desktop
+   11  cd ..
+   12  cd ../..
+   13  mkdir Test
+   14  touch test.txt
+   15  cd test123
+   16  cd ..
+   17  cd c
+   18  cd Test
+   19  touch test.txt
+   20  ls -l
+   21  cd Users
+   22  ls - l
+   23  ls -l
+   24  cd 'Jelenin Dellic'
+   25  ls -l
+   26  mkdir novi
+   27  cd novi
+   28  touch fajl.txt
+   29  history > fajl.txt 
+   30  grep -e cd fajl.txt
+   31  ps 
+   32  find fajl.txt
+   33  locate fajl.txt
+   34  cd..
+   35  cd ..
+   36  cd ../..
+   37  ls -l
+   38  cd Users
+   39  ls -l
+   40  cd 'Jelenin Dellic'
+   41  ls -l
+   42  cd Desktop
+   43  mkdir Novi
+   44  touch test.txt
+   45  history > test.txt
+   46  cd Novi
+   47  touch test.txt
+   48  history > test.txt
